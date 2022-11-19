@@ -16,7 +16,4 @@ Repositório: https://github.com/iaraeliza/Apredizado-C-SharpParaJogos/blob/0988
 ![WhatsApp Image 2022-11-18 at 14 30 15](https://user-images.githubusercontent.com/107582204/202773671-d8be8654-0543-45e9-8e48-32074be1698f.jpeg)
 
 
-# Exercício: Elaborar um cenário greybox utilizando conceitos de iluminação e prefab.
-
-Repósitorio:
 
