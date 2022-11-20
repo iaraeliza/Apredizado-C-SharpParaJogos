@@ -7,7 +7,7 @@ Atribuições: Domine todos os conceitos da linguagem C#, a mais utilizada pelos
 
 
 
-# Exercício: Elaborar um código com trêr váriaveis e exiba a maior.
+# Exercício: Elaborar um código com três váriaveis e exiba a maior.
 
 Repositório: https://github.com/iaraeliza/Apredizado-C-SharpParaJogos/blob/0988a2dc6338c14919f94dc1f7bf9109fc046402/Files/Exerc%C3%ADcio1/using%20System.Collections;.cs
 
