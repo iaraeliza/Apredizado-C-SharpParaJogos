@@ -6,20 +6,13 @@ using UnityEngine;
 
 public class MaiorNumero : MonoBehaviour
 {
-    [SerializeField] int numb1;
-    [SerializeField] int numb2;
-
+   [SerializeField] int a, b, c;
+  
     void Start()
     {
-        
-        if (numb1 > numb2)
-		{
-            Debug.Log($"Number: {numb1}");
-		}
-        else
-		{
-            Debug.Log($"Number: {numb2}");
-        };
-    
+        List<int> lista = new List<int> { a, b, c };
+        int maiorValor = lista.Max();
+        Debug.Log($"O maior número é : {maiorValor}");
     }
+
 }
