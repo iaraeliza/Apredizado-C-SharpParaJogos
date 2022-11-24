@@ -16,6 +16,10 @@ Repositório: https://github.com/iaraeliza/Apredizado-C-SharpParaJogos/blob/0988
 ![numberMax](https://user-images.githubusercontent.com/107582204/202905013-8c77cfa7-61d5-40b6-b1af-44ae9ab10dad.jpeg)
 
 # Exercício: Elaborar uma cena com um objeto com movimentação. Adicionar o evento "Destruction" . 
-Para este exercício o "destruction" foi implementado no objeto quando ocorre uma colissao. 
+Para este exercício o "destruction" foi implementado no objeto na colissao. 
 
 ![Destruicao](https://user-images.githubusercontent.com/107582204/203569210-99c43c8c-58f2-476c-a55f-f5b5178b7b7d.gif)
+
+# Exercício: Elaborar uma matrix procedural em que a altura do objeto do centro seja variável e o objeto da borda seja de tamanho fixo. 
+
+![MatrixObject](https://user-images.githubusercontent.com/107582204/203820724-25c30b57-4b34-4ecd-ad4e-ee0a921106b1.gif)
