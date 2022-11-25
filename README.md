@@ -22,4 +22,5 @@ Para este exercício o "destruction" foi implementado no objeto na colissao.
 
 # Exercício: Elaborar uma matrix procedural em que a altura do objeto do centro seja variável e o objeto da borda seja de tamanho fixo. 
 
-![MatrixObject](https://user-images.githubusercontent.com/107582204/203820724-25c30b57-4b34-4ecd-ad4e-ee0a921106b1.gif)
+
+![MatrixObject](https://user-images.githubusercontent.com/107582204/203988471-e0c422c9-8ada-4f17-a1e5-dff1e63ae113.gif)
