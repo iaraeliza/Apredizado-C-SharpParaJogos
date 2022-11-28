@@ -1,11 +1,14 @@
-> :construction: Projeto em construção :construction:
+ <h2 align="center">  :construction: Projeto em construção :construction: </h2>
 
-# Apredizado-C-SharpParaJogos
+
+ <h1 align="center"> Aprendizado C# Para Jogos </h1>
+
+
 Repositório Baseado nos exercícios considerados pertinentes para exibição C#.
 
 Desenvolvedor de Games em Unity.
 
-Atribuições: Domine todos os conceitos da linguagem C#, a mais utilizada pelos desenvolvedores para criar jogos inovadores e disruptivos.
+Atribuições: Conceitos da linguagem C#, a mais utilizada pelos desenvolvedores para criar jogos inovadores e disruptivos.
 
 
 
