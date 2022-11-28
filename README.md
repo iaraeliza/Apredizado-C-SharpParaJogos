@@ -1,3 +1,5 @@
+> :construction: Projeto em construção :construction:
+
 # Apredizado-C-SharpParaJogos
 Repositório Baseado nos exercícios considerados pertinentes para exibição C#.
 
