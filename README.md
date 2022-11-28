@@ -1,3 +1,5 @@
+
+ 
  <h2 align="center">  :construction: Projeto em construção :construction: </h2>
 
 
@@ -12,20 +14,30 @@ Atribuições: Conceitos da linguagem C#, a mais utilizada pelos desenvolvedores
 
 
 
-# Exercício: Elaborar um código com três váriaveis e exiba a maior.
 
-Repositório: https://github.com/iaraeliza/Apredizado-C-SharpParaJogos/blob/0988a2dc6338c14919f94dc1f7bf9109fc046402/Files/Exerc%C3%ADcio1/using%20System.Collections;.cs
 
+| Repositório                                                                       | Descrição                                                  | Nível      |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
+|[Documentação](https://github.com/iaraeliza/Aprendizado-C-SharpParaJogos/tree/main/Exercicios/TresVariaveisExibaAMaior) | Exercício: Elaborar um código com três váriaveis e exiba a maior.                       | 1-Iniciante|
 
 
 ![numberMax](https://user-images.githubusercontent.com/107582204/202905013-8c77cfa7-61d5-40b6-b1af-44ae9ab10dad.jpeg)
 
-# Exercício: Elaborar uma cena com um objeto com movimentação. Adicionar o evento "Destruction" . 
+
+
+| Repositório                                                                       | Descrição                                                  | Nível      |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
+|[Documentação](https://github.com/iaraeliza/Aprendizado-C-SharpParaJogos/tree/main/Exercicios/Destruction) | Exercício: Elaborar uma cena com um objeto com movimentação. Adicionar o evento "Destruction". | 1-Iniciante|
+
 Para este exercício o "destruction" foi implementado no objeto na colissao. 
 
 ![Destruicao](https://user-images.githubusercontent.com/107582204/203569210-99c43c8c-58f2-476c-a55f-f5b5178b7b7d.gif)
 
-# Exercício: Elaborar uma matrix procedural em que a altura do objeto do centro seja variável e o objeto da borda seja de tamanho fixo. 
+| Repositório                                                                       | Descrição                                                  | Nível      |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
+|[Documentação] |Elaborar uma matrix procedural em que a altura do objeto do centro seja variável e o objeto da borda seja de tamanho fixo.  |1-Iniciante|
+
+
 
 
 ![MatrixObject](https://user-images.githubusercontent.com/107582204/203988471-e0c422c9-8ada-4f17-a1e5-dff1e63ae113.gif)
