@@ -37,8 +37,5 @@ Para este exercício o "destruction" foi implementado no objeto na colissao.
 
 ![MatrixObject](https://user-images.githubusercontent.com/107582204/203988471-e0c422c9-8ada-4f17-a1e5-dff1e63ae113.gif)
 
-| Repositório                                                                       | Descrição                                                  | 
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
-|[Documentação] |Gerenciamento de cenas: elaborar duas cenas, e fazer um objeto transitar por elas  |
 
 
