@@ -42,4 +42,3 @@ Para este exercício o "destruction" foi implementado no objeto na colissao.
 |[Documentação] |Gerenciamento de cenas: elaborar duas cenas, e fazer um objeto transitar por elas  |
 
 
-![Cenas](https://user-images.githubusercontent.com/107582204/204526573-f6e8d1e7-c591-4181-93b7-7fdcf215730c.gif)
