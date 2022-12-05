@@ -32,7 +32,7 @@ Para este exercício o "destruction" foi implementado no objeto na colissao.
 
 | Repositório                                                                       | Descrição                                                  | 
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
-|[Documentação] |Elaborar uma matrix procedural em que a altura do objeto do centro seja variável e o objeto da borda seja de tamanho fixo.  |
+|[Documentação](https://github.com/iaraeliza/Aprendizado-C-SharpParaJogos/tree/main/Exercicios/Matrix) |Elaborar uma matrix procedural em que a altura do objeto do centro seja variável e o objeto da borda seja de tamanho fixo.  |
 
 
 ![MatrixObject](https://user-images.githubusercontent.com/107582204/203988471-e0c422c9-8ada-4f17-a1e5-dff1e63ae113.gif)
