@@ -31,12 +31,32 @@ public class Procedural : MonoBehaviour
 
                 //Instanciando Cubos da Borda
 
+                
                 if (line == 0 || column == 0 || line == terrainSize - 1 || column == terrainSize - 1)
                 {
                     for (int heigthBorder = 0; heigthBorder < 6; heigthBorder++)
-                        Instantiate(cubeBorder, new Vector3(line, heigthBorder, column), Quaternion.identity);
+                        cubeBorderDestroy.Add(Instantiate(cubeBorder, new Vector3(line, heigthBorder, column), Quaternion.identity));
                 }
             }
         }
+    }
+    
+    //Destruindo cubos da borda
+    List<GameObject> cubeBorderDestroy = new List<GameObject>();
+	void Update()
+    { 
+
+        if (Input.GetKeyDown(KeyCode.A))
+	{ 
+            {
+                Destroy(cubeBorderDestroy[0]);
+                cubeBorderDestroy.RemoveAt(0);
+
+                Destroy(cubeBorderDestroy[cubeBorderDestroy.Count - 1]);
+                cubeBorderDestroy.RemoveAt(cubeBorderDestroy.Count - 1);
+            }
+
+	}
+
     }
 }
