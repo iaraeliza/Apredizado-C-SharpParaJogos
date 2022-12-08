@@ -37,5 +37,9 @@ Para este exercício o "destruction" foi implementado no objeto na colissao.
 ![DestroyBorder](https://user-images.githubusercontent.com/107582204/205990396-2dbd1d15-32ba-4823-9906-ccfca3c62866.gif)
 
 
+| Repositório                                                                       | Descrição                                                  | 
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
+|[Documentação](https://github.com/iaraeliza/Aprendizado-C-SharpParaJogos/tree/main/Exercicios/Matrix) | Elaborar um objeto que irá percorrer um trajeto no estilo patrulha, com tempo, direção e velocidade aletórias (armazenadas em uma lista).
 
+![Patrol](https://user-images.githubusercontent.com/107582204/206477018-cdf2ae4e-a3b8-41c6-bf83-e11589990412.gif)
 
