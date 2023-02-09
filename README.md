@@ -43,6 +43,22 @@ Para este exercício o "destruction" foi implementado no objeto na colissao.
 
 ![Patrol](https://user-images.githubusercontent.com/107582204/206477018-cdf2ae4e-a3b8-41c6-bf83-e11589990412.gif)
 
+
+| Repositório                                                                       | Descrição                                                  | 
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
+|[Documentação](https://github.com/iaraeliza/Aprendizado-C-SharpParaJogos/tree/mentoramacsharp/Exercicios/GameArmor) | Criar uma classe de armadura.
+
+![armor](https://user-images.githubusercontent.com/107582204/217835455-d537f7b5-c231-4c03-ac5d-b0c63ed1f573.jpeg)
+![debug](https://user-images.githubusercontent.com/107582204/217835484-066daa89-01e7-4318-8dc2-3f01474e68d2.jpeg)
+
+| Repositório                                                                       | Descrição                                                  | 
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
+|[Documentação](https://github.com/iaraeliza/Aprendizado-C-SharpParaJogos/tree/mentoramacsharp/Exercicios/CharacterControl) | Criar uma Classe para o contole da movimentação de um objeto. 
+
+![controlCharacter](https://user-images.githubusercontent.com/107582204/217836017-8ad13ed3-80d0-4558-a5fc-0128e759f687.png)
+
+
+
 | Repositório                                                                       | Descrição                                                  | 
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
 |[Documentação](https://github.com/iaraeliza/Aprendizado-C-SharpParaJogos/tree/mentoramacsharp/Exercicios/GameAmor2.0) | Criar um evento para exibir as informações do game em uma UI, adicionar informações do embate, como vida, armadura e arma.
