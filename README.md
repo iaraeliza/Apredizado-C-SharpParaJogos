@@ -43,3 +43,12 @@ Para este exercício o "destruction" foi implementado no objeto na colissao.
 
 ![Patrol](https://user-images.githubusercontent.com/107582204/206477018-cdf2ae4e-a3b8-41c6-bf83-e11589990412.gif)
 
+| Repositório                                                                       | Descrição                                                  | 
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
+|[Documentação](https://github.com/iaraeliza/Aprendizado-C-SharpParaJogos/tree/mentoramacsharp/Exercicios/GameAmor2.0) | Criar um evento para exibir as informações do game em uma UI, adicionar informações do embate, como vida, armadura e arma.
+
+![gif](https://user-images.githubusercontent.com/107582204/217834584-dd83e241-7492-441c-8d65-3f354e5dafbb.gif)
+
+
+
+
