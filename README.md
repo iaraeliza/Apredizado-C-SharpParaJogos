@@ -69,6 +69,10 @@ Para este exercício o "destruction" foi implementado no objeto na colissao.
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
 |[Documentação](https://github.com/iaraeliza/Aprendizado-C-SharpParaJogos/tree/mentoramacsharp/Exercicios/GameMoveRandom) | Criar uma classe que mova o objeto em diferentes direções após colidir com um objeto. Foi utilizado a classe Random para atribuir um direção aleatória após a colisão.
 
-![GameMoveRandom](https://user-images.githubusercontent.com/107582204/219116152-a0a62eb5-d101-42b0-b3bc-b2f5ea0b8f5b.gif)
+
+
+
+https://user-images.githubusercontent.com/107582204/219118211-e3c2123d-18d4-4238-b499-bea455557e23.mp4
+
 
 
