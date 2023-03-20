@@ -74,5 +74,13 @@ Para este exercício o "destruction" foi implementado no objeto na colissao.
 
 https://user-images.githubusercontent.com/107582204/219118211-e3c2123d-18d4-4238-b499-bea455557e23.mp4
 
+<br>
 
+
+| Repositório                                                                       | Descrição                                                  | 
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
+|[Documentação](https://github.com/iaraeliza/Aprendizado-C-SharpParaJogos/tree/mentoramacsharp/Exercicios/GameGit) | Zerar o game de git: https://learngitbranching.js.org/?locale=pt_BR. 
+
+
+![WhatsApp Image 2023-03-20 at 15 57 49](https://user-images.githubusercontent.com/107582204/226440100-b9ca46e4-ffc2-42bc-99f4-39b824309ea2.jpeg)
 
