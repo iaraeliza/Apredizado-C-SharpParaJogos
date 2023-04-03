@@ -84,3 +84,9 @@ https://user-images.githubusercontent.com/107582204/219118211-e3c2123d-18d4-4238
 
 ![WhatsApp Image 2023-03-20 at 15 57 49](https://user-images.githubusercontent.com/107582204/226440100-b9ca46e4-ffc2-42bc-99f4-39b824309ea2.jpeg)
 
+
+<h2>Desenvolver um game inspirado no Pac-Man : </h2> 
+
+[Documentação](https://github.com/iaraeliza/pac-mania)
+
+![Gif-As1234](https://user-images.githubusercontent.com/107582204/229520694-7b87855e-2cec-4ab0-be48-ec75563898b0.gif)
