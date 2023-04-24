@@ -91,7 +91,7 @@ https://user-images.githubusercontent.com/107582204/219118211-e3c2123d-18d4-4238
 
 ![Gif-As1234](https://user-images.githubusercontent.com/107582204/229520694-7b87855e-2cec-4ab0-be48-ec75563898b0.gif)
 
-<h2>Implemetar a classe intereface para o script do game GameArmo2.0 </h2> 
+<h2>Implementar a classe interface para o script do game GameArmo2.0 </h2> 
 <h3>Classe de interface é um recurso de programação que permite definir um conjunto de métodos e propriedades que uma classe deve implementar, sem fornecer nenhuma implementação real para esses membros. Dessa forma, a implementação de uma interface pode mudar a forma como outras classes se comportam, mas não afetará diretamente a aparência visual do jogo.</h3>
 
 [Documentação](https://github.com/iaraeliza/Aprendizado-C-SharpParaJogos/tree/mentoramacsharp/Exercicios/GameAmor2.0)
